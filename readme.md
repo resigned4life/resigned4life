@@ -3,7 +3,7 @@
 Digital Interactive | Mixed Reality | Machine Learning\
 Senior Research Fellow at Sunway University
 
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="[https://raw.githubusercontent.com/resigned4life/resigned4life/main/hilmanRound.png]" />
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
